@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "本日は晴天なり",
+  "base_artist": "大西亜玖璃",
+  "createdAt": "2025-12-30T14:31:57.661326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "本日は晴天なり",
+      "artist": "大西亜玖璃",
+      "has_synced": true,
+      "path": "select/01_本日は晴天なり_大西亜玖璃.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "本日は晴天なり",
+      "artist": "大西亜玖璃",
+      "has_synced": true,
+      "path": "select/02_本日は晴天なり_大西亜玖璃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本日は晴天なり",
+      "artist": "大西亜玖璃",
+      "has_synced": false,
+      "path": "select/pl_01_本日は晴天なり_大西亜玖璃.txt"
+    }
+  ]
+}
